@@ -2,9 +2,9 @@
 
 This repo a script to run the hasher-store system. It is composed of three separate projects:
 
-- product-service
-- discount-service
-- proto-graal
+- [product-service](https://github.com/rennanbadaro/product-service)
+- [discount-service](https://github.com/rennanbadaro/discount-service)
+- [proto-graal](https://github.com/rennanbadaro/proto-graal)
 
 Before starting, make sure you've meet the requirements described in each project listed above.
 To run hasher-store just type the commands:
